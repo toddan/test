@@ -1,0 +1,1 @@
+c:\users\tord\documents\visual studio 2012\Projects\gittest\gittest\bin\Debug\gittest.exe.config
